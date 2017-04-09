@@ -21,11 +21,3 @@ Radius = DicomImage.GetRadius()
 for i in range(1, Radius):
     IntegrationResult[i] = DrawCircle(DicomImage, radius).getMeanValue()
 ```
-
-## 4. Program Structure
-### Class Definition
-|class DicomImage|
-|:-------------------:|
-|shuxing|
-|=====================|
-|method|
