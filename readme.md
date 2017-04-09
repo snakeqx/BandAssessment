@@ -1,11 +1,11 @@
-# Band Assessment Statistics Specification
+# Band Assessment Statistics
 
 ## 1.  Introduction
 This tool is designed for analyzing band assessment image quality for CT systems.
-It try to find a way to quantify the image quality and have a statistics view.
+And try to find a way to quantify the image quality and have a statistics view.
 
 ## 2. Develop tool
-The program is written in Python 3.x with several packages includes:
+The program is written in Python 3.x with several packages:
 * pydicom -> To parse the dicom file
 * matplotlib -> To draw the plot
 * numpy -> To make calculation quick when dealing with image arrays
